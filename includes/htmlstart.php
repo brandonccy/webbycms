@@ -10,4 +10,8 @@
   <link rel="stylesheet" href="/assets/css/custom.css">
   <!-- Webby Custom Javascripts -->
   <script src="/assets/js/custom.js"></script>
+
+  <!-- Foundations 6 -->
+  <link rel="stylesheet" href="/assets/css/foundation.css">
+  <link rel="stylesheet" href="/assets/css/app.css">
 </head>
