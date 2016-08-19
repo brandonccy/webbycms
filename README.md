@@ -1,8 +1,11 @@
 # webbycms - with Foundation 6
 
 1) Clone/Download, then select Bootraps4 branch to start develop your PHP project.
+
 2) Setup your MAMP Pro with localhost
+
 3) Access your localhost, you should see a Foundation Hello World Page
+
 4) Enjoy Coding!
 
 Developer Skill: PHP, mySQL Improved, HTML and CSS Bootstrap, Javascripts
