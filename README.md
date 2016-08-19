@@ -1,5 +1,8 @@
 # webbycms - with Foundation 6
 
+This is a very basic of WebbyCMS front-end PHP Framework.
+Its works fine for all others front-end framework such as Bootstraps, #Foundation, and etc.
+
 Clone/Download to start develop your PHP project on top of WebbyFrame and Foundation 6.2.3
 
 Built since 2012 and support for different online and offline industry to supply a fast growing online contents and mangement.
