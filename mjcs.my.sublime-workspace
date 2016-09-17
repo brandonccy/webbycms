@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is_Nu",
+				"is_numeric"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"accs",
+				"accSetNumber"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"getExp",
+				"getExpRow"
+			],
+			[
+				"totl",
+				"totalCredit"
+			],
+			[
+				"acc",
+				"accSetNumber"
+			],
+			[
+				"col",
+				"colspan"
+			],
+			[
+				"sub",
+				"sub_stat"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"txtSu",
+				"txtSourceCode"
+			],
+			[
+				"txtS",
+				"txtSourceCode"
+			],
+			[
+				"tran",
+				"tran_draft"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"salary",
+				"salary_id"
+			],
+			[
+				"rs",
+				"result2"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_array"
+			],
+			[
+				"cobro",
+				"cobro_fees"
+			],
+			[
+				"transfer",
+				"transfer_name"
+			],
+			[
+				"form",
+				"form_id"
+			],
+			[
+				"tra",
+				"transfer_nric"
+			],
+			[
+				"tenan",
+				"tenant_nric"
+			],
+			[
+				"tena",
+				"tenant_name"
+			],
+			[
+				"net",
+				"net_intro_fees"
+			],
+			[
+				"gst",
+				"gst_amount"
+			],
+			[
+				"bala",
+				"balance_to_vendor"
+			],
+			[
+				"name",
+				"name_card_name"
+			],
+			[
+				"cal",
+				"claimUser"
+			],
+			[
+				"cate",
+				"case_type"
+			],
+			[
+				"case",
+				"case_type"
+			],
+			[
+				"staff",
+				"staff_level"
+			],
+			[
+				"gs",
+				"gst_pay_by"
+			],
+			[
+				"req",
+				"requestType"
+			],
+			[
+				"onkey",
+				"onkeyup	Attr"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"new",
+				"newDataId"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"ic_no_",
+				"ic_no_first"
+			],
+			[
+				"form_sta",
+				"form_status"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"left",
+				"leftbarItem"
+			],
+			[
+				"mysql_in",
+				"mysql_insert_id"
+			],
+			[
+				"sess",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brandonchong/mjcs.my",
+		"/Users/brandonchong/mjcs.my/pages"
+	],
+	"file_history":
+	[
+		"/Users/brandonchong/webbycms/README.md",
+		"/Users/brandonchong/webbycms/pages/home/index.php",
+		"/Users/brandonchong/webbycms/.htaccess",
+		"/Users/brandonchong/webbycms/controller/define.php",
+		"/Users/brandonchong/webbycms/includes/htmlstart.php",
+		"/Users/brandonchong/webbycms/includes/htmlend.php",
+		"/Users/brandonchong/webbycms/includes/javascripts.php",
+		"/Users/brandonchong/Desktop/foundation-6.2.3-complete/index.html",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Templates/Main/Progressive Template v3.0.3/gallery-modern.html",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Templates/Main/Progressive Template v3.0.3/gallery-4.html",
+		"/Users/brandonchong/RealPropertySG/pages/blog/view.php",
+		"/Users/brandonchong/RealPropertySG/pages/includes/layout/header.php",
+		"/Users/brandonchong/RealPropertySG/pages/blog/layout/rightside.php",
+		"/Users/brandonchong/RealPropertySG/pages/blog/list.php",
+		"/Users/brandonchong/Dropbox/Hackemon-master/settings.json",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-blog-uploadImageGallery.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-blog-deleteImage.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/pages/blog/includes/action/editBlogPost.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/pages/blog/includes/action/manageBlogGallery.php",
+		"/Users/brandonchong/RealPropertySG/pages/includes/layout/footer.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/pages/blog/includes/tab_post.php",
+		"/Users/brandonchong/RealPropertySG/pages/blog/index.php",
+		"/Users/brandonchong/RealPropertySG/assets/css/style.css",
+		"/Users/brandonchong/RealPropertySG/pages/index.php",
+		"/Users/brandonchong/RealPropertySG/assets/css/customizer/pages.css",
+		"/Users/brandonchong/RealPropertySG/pages/includes/layout/bodyend.php",
+		"/Users/brandonchong/RealPropertySG/pages/home/index.php",
+		"/Users/brandonchong/RealPropertySG/pages/includes/layout/bodystart.php",
+		"/Users/brandonchong/RealPropertySG/controller/conn.php",
+		"/Users/brandonchong/RealPropertySG/controller/common.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/dashboard/index.php",
+		"/Users/brandonchong/RealPropertySG/controller/index.php",
+		"/Users/brandonchong/RealPropertySG/controller/demo_access/demo_access.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Templates/Main/Progressive Template v3.0.3/home-2.html",
+		"/Users/brandonchong/RealPropertySG/admincp/assets/php/updateSideMenu.php",
+		"/Users/brandonchong/RealPropertySG/admincp/assets/php/updateSystemLaunchAjax.php",
+		"/Users/brandonchong/RealPropertySG/pages/demo/index.php",
+		"/Users/brandonchong/RealPropertySG/pages/demo/page.json",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-home-deleteImage.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-image-library-deleteImage.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-about-us-deleteImage.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-gallery-deleteImage.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/image-library/includes/tab_gallery.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/pages/gallery/includes/tab_gallery.php",
+		"/Users/brandonchong/RealPropertySG/controller/functions.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-image-library-uploadImageGallery.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-gallery-uploadImageGallery.php",
+		"/Users/brandonchong/RealPropertySG/admincp/common/forms/pages-about-us-uploadImageGallery.php",
+		"/Users/brandonchong/RealPropertySG/admincp/default/index.php",
+		"/Users/brandonchong/RealPropertySG/admincp/modules/pages/home/index.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/.htaccess",
+		"/Users/brandonchong/RealPropertySG/.htaccess",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/controller/common.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/controller/define.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/includes/htmlstart.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/pages/home/page.json",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/controller/functions.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/includes/javascripts.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/includes/views.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/under-construction.html",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/404.html",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/index_sample.html",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/pages/home/index.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/pages/error/404.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/pages/error/500.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/pages/error/505.php",
+		"/Users/brandonchong/Google Drive/Production/Chong Kok Ee/Projects/Website/Scripts/index.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/header.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/listing_delete.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/body.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/logout.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/admin-listing-row.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/login.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/admin-dashboard.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/submission_form.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/admin-tables.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/.htaccess",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/index.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/contact-1.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/admin-forms.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/admin-tables.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/admin-dashboard.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/listing-row.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/index.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/login.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/terms-conditions.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/listing-details.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/dev/themes/listing_update.php",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/assets/js/superlist.js",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/app/assets/css/superlist.css",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/index.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/admin-dashboard.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/admin-forms.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/admin-tables.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/contact-1.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/index.html",
+		"/Users/brandonchong/Google Drive/Production/Food Wonder World Media/Website/New Scripts/themes/terms-conditions.html",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/chart/chart_body.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/fixDeletedTransactions.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/profitloss.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet/body/pl.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet/body/liabilities.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet/body/equity.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet/body/assets.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet/mjcs.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/json/loadCustomerForm.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/cron.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/themes/default/customer/edit.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/common/functions.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/includes/trialsheet.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/trialsheet.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/includes/trialsheet_body.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/print.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/themes/report.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/themes/menu/menu.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/index.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/includes/profitloss.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/getDataFromBMS.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/chart/chart.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/chart/expenses.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/chart/ledger_header.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/chart/ledger.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/admincp/modules/report/balancesheet.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/json/loadAreaNameAjax.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/themes/default/customer/add.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/common/functions.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/themes/default/customer/feedback.php",
+		"/Users/brandonchong/Google Drive/Production/09 Accounting System/Website(Scripts)/bms/themes/default/index.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".page-header .title {",
+			"ban",
+			"src=\"img",
+			"src=\"content",
+			"src=\"img",
+			"src=\"js",
+			"href=\"css/",
+			"main-inner",
+			"google",
+			"country",
+			"Maintenance",
+			"txtGetFrom",
+			"<i class=\"fa fa-sort-amount-desc\" aria-hidden=\"true\"></i>",
+			"request",
+			"form_date",
+			"Document",
+			"downloine",
+			"showCloseSummary",
+			"cobro_agency_comp_name",
+			"cobro_agenct_ic",
+			"'$nameCardname'",
+			"Intro",
+			"getUser",
+			"<select",
+			"select",
+			"Leader",
+			"form_total",
+			"getForm",
+			"gotCoBro",
+			"Reember Me",
+			"DROPDOWN",
+			"showSummary",
+			"transaction_total",
+			"getTranStatus",
+			"delete",
+			"<?$curRef?>",
+			"deleteForm",
+			"divCode",
+			"updateCase",
+			"form_date",
+			"$_SESSION[\"dashboard_login\"]",
+			"formSQL",
+			"showSummary",
+			"form_date",
+			"dropdown",
+			"updateCase",
+			"required",
+			"db_trans",
+			"cobro_id",
+			"cobro_agent",
+			"staff_id",
+			"cobro_agency_comp_name",
+			"intro_ic_no",
+			"intro_ic_name",
+			"intro_fees",
+			"cobro_agenct_ic",
+			"cobro_agency_name",
+			"cobro_agency_reg_num",
+			"cobro_agency_comp_name",
+			"cobro_agency_name",
+			"cobro_agenct_ic",
+			"<?=strtoupper(getUser($row11[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row10[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row9[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row8[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row7[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row6[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row5[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row4[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row3[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row2[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row1[\"user_id\"], \"name_card_name\"))?>",
+			"<?=strtoupper(getUser($row[\"user_id\"], \"name_card_name\"))?>",
+			"db_data_9",
+			"\"-\"",
+			"src=\"assets",
+			"vhost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"/assets/img",
+			"src=\"/assets/content",
+			"src=\"/assets/img",
+			"src=\"/assets/js",
+			"href=\"/assets/css/",
+			" <i class=\"fa fa-sort-amount-desc\" aria-hidden=\"true\"></i>",
+			"'\".strtoupper($nameCardname).\"'",
+			"transaction_valid_total",
+			"<?=$curRef?>",
+			"getSalary($id, \"staff_id\")",
+			"db_sap",
+			"<b><?=strtoupper(getUser($row11[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row10[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row9[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row8[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row7[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row6[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row5[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row4[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row3[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row2[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row1[\"user_id\"], \"name_card_name\"))?></b>",
+			"<b><?=strtoupper(getUser($row[\"user_id\"], \"name_card_name\"))?></b>",
+			"db_data_14",
+			"\" - \"",
+			"src=\"/assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mjcs.my.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "billl",
+		"selected_items":
+		[
+			[
+				"billl",
+				"~/Google Drive/Production/Project/Billing/Website/myOBS.sublime-project"
+			],
+			[
+				"Flowe",
+				"~/Google Drive/Production/FlowerShoppe Website/Version 01/flowershoppe.sublime-project"
+			],
+			[
+				"Royal",
+				"~/Google Drive/Production/Royal Canin/Website/RoyalCanin.sublime-project"
+			],
+			[
+				"",
+				"~/Google Drive/Production/09 Accounting System/Sublime/AccountAWS.sublime-project"
+			],
+			[
+				"Flower",
+				"~/Google Drive/Production/FlowerShoppe Website/flowershoppe.sublime-project"
+			],
+			[
+				"ubold",
+				"/Users/Shared/UBOLDDashboardPHP/index.sublime-project"
+			],
+			[
+				"Account",
+				"~/Google Drive/Production/09 Accounting System/Website(Scripts)/AccountingAWS.sublime-project"
+			],
+			[
+				"Midori",
+				"~/Google Drive/Production/Midori/Website/Midori.sublime-project"
+			],
+			[
+				"acc",
+				"~/Google Drive/Website/BrandHex.com/04 Project/Under Housekeeping/09 Accounting System/Sublime/AccountAWS.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
