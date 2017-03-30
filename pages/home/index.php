@@ -1,17 +1,29 @@
-<nav class="navbar navbar-static-top navbar-dark bg-inverse">
-  <a class="navbar-brand" href="#">Project name</a>
-  <ul class="nav navbar-nav">
-    <li class="nav-item active">
-      <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">About</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Contact</a>
-    </li>
-  </ul>
+<nav class="navbar navbar-fixed-top navbar-light bg-faded">
+    <button class="navbar-toggler pull-xs-right hidden-lg-down-up hidden-md-up" type="button" data-toggle="collapse" data-target="#navbar-collapse">☰</button> <a class="navbar-brand" href="#">Webby CMS</a>
+    <div class="collapse navbar-toggleable-sm" id="navbar-collapse">
+        <ul class="nav navbar-nav pull-xs-right">
+            <li class="nav-item active"> <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Link 1</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Link 2</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Link 3</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                <div class="dropdown-menu dropdown-menu-right">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Separated link</a>
+                </div>
+            </li>
+        </ul>
+    </div>
 </nav>
+
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
