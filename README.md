@@ -36,4 +36,4 @@ Recommened Tools:
 - SequelPro (Mac OS), MYSQL WorkBench (Windows)
 
 Official Website
-http://webbypage.com/?page=backtothefuture
+http://www.webbypage.com/
