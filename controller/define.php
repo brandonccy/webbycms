@@ -35,6 +35,13 @@ if(isset($_POST["token"])&&!empty($_POST["token"])){
 	$token=$_POST["token"];
 }
 
+// Add Custom error handler function
+function customError($errno, $errstr, $errfile, $errline) {
+  echo '<div class="alert alert-danger"><p><b>Error:</b> ['.$errno.'] '.$errstr.' <br>at '.$errfile.': line-> '.$errline.'</div></p>';
+}
+// Return Error into function
+set_error_handler("customError");
+
 /* Pre Defined Variables for Date & Time - This will used for Token generation */
 $Today=date("Y-m-d");
 $Day=date("d");
